@@ -12,10 +12,8 @@ QQQ trend strategy backtested in Backtrader with walk-forward validation.
 | Percentage Return on Capital | 77.06 % |
 | Maximum Drawdown | 12.98 % |
 | Walk-Forward Analysis Score | 95.10 |
-| Robustness Score | 81.33 (> 75) |
+| Robustness Score | 81.33 |
 
-**Repository:** https://github.com/Debashis7307/adaptive-regime-trader  
-Add collaborator `markheris34-svg` for review access.
 
 ## Approach
 
